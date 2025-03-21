@@ -1,13 +1,13 @@
 # 📊 Portfólio de Análises do Balanço Patrimonial com Power BI
 
-## 📌 Sobre o projeto
+## 📌 Sobre o Projeto
 Análise da saúde financeira da empresa a partir do Balanço Patrimonial
 
 ## 🔎 Visualização do Dashboard
 
 ![image](https://github.com/user-attachments/assets/a248a776-204b-423a-a89b-1b1c26492fa7)
 
-🔗 **Acesse o Power BI Online:** [Clique aqui](https://app.powerbi.com/groups/me/reports/6f6e5619-bda4-435f-8ffb-1ece1804ac81?ctid=f310b526-e195-4805-a55e-67e28f2fefdb&pbi_source=linkShare)
+🔗 **Acesse o Power BI Online:** [Clique aqui](https://istvan-abner-varga.github.io/)
 
 ## 📝 **Análise do Relatório**
 - ✔️ Análise Vertical e horizontal
