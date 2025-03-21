@@ -7,7 +7,7 @@ Análise da saúde financeira da empresa a partir do Balanço Patrimonial
 
 ![image](https://github.com/user-attachments/assets/a248a776-204b-423a-a89b-1b1c26492fa7)
 
-🔗 **Acesse o Power BI Online:** [Clique aqui](https://istvan-abner-varga.github.io/)
+🔗 **Acesse o Power BI Online:** [🔍 Visualizar](https://app.powerbi.com/view?r=eyJrIjoiNjdkNmRmZTMtYzFlNC00ZmI3LTk5MWQtZDY2NGRkYjAzYjIwIiwidCI6ImFjNTU4MzUwLTJiZTQtNGNmYi1iMWIzLTY2YTQzZGI3YmU1OSJ9)
 
 ## 📝 **Análise do Relatório**
 - ✔️ Análise Vertical e horizontal
